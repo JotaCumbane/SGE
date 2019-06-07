@@ -1,0 +1,17 @@
+
+     SISTEMA DE GESTAO ESCOLAR (SGE)
+
+
+********** REQUISITOS BASICOS ***********
+
+      - TER WAMP INSTALADO (PHP)
+
+*****************************************
+*****************************************
+
+         QUALQUER DUVIDA CONTACTE:
+
+          - CELL: 84 713 1212
+     - EMAIL: jota.cumbane@gmail.com
+
+*****************************************
